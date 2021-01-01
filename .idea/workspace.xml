@@ -2,25 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48d879e4-c88e-4272-9afd-ed652e01a517" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/NotFound.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/NotFound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AuthenticatedRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BillingForm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BillingForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoaderButton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoaderButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UnauthenticatedRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/NewNote.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/NewNote.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Notes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Notes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Settings.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Signup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libs/awsLib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libs/contextLib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libs/errorLib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libs/hooksLib.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Home.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609335883786</updated>
-      <workItem from="1609335885382" duration="5064000" />
+      <workItem from="1609335885382" duration="24255000" />
     </task>
     <servers />
   </component>
